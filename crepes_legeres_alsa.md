@@ -1,6 +1,6 @@
-#Crepes legeres alsa
+# Crepes legeres alsa
 
-##Ingrédients
+## Ingrédients
 
   - 150g de farine
   - 50g de maizena
